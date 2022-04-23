@@ -1,8 +1,5 @@
 {
-    "banner_id":"ca-app-pub-3940256099942544/2247696110",
-    "banner_id2":"ca-app-pub-3940256099942544/2247696110",
-    "interstitiel_id":"ca-app-pub-3940256099942544/1033173712",
-    "app_id":"ca-app-pub-3940256099942544~7679745895",
+  
     "show_total_ads":true,
     "show_interstitial_ads":true,
     "show_banner_ads":true,
