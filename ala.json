@@ -1,6 +1,6 @@
 {
   
-    "show_total_ads":true,
+    "show_total_ads":false,
     "show_interstitial_ads":true,
     "show_banner_ads":true,
     "show_banner_ads2":true 
